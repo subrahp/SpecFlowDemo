@@ -9,7 +9,7 @@ namespace SpecFlowDemo
         [TestMethod]
         public void TestMethod1()
         {
-            Console.Out.WriteLine("This is SpecFlow Demo");
+            Console.Out.WriteLine("This is SpecFlow Demo1");
         }
     }
 }
